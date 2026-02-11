@@ -1,0 +1,12 @@
+# Generated outputs
+policies_standardized.csv
+sanity_checks_report.txt
+churn_rate_report.txt
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
