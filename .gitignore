@@ -1,3 +1,11 @@
+# Original standalone scripts (kept locally, not needed for pipeline)
+sanity_checks.py
+customer_standardize.py
+churn_rate.py
+tenure_churn_plot.py
+risky_channels.py
+price_per_coverage_plot.py
+
 # Generated outputs
 policies_standardized.csv
 sanity_checks_report.txt
