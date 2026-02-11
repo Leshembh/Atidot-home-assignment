@@ -1,6 +1,7 @@
 # Insurance Policy Analysis
+**Home Assignment – Atidot | Leshem Ben Hur**
 
-> For full methodology and findings, see the accompanying PDF report.
+> For full methodology and findings, see the accompanying PDF report- Home Assignment – Atidot Data Analyst Leshem Ben Hur. 
 
 ## Setup
 
